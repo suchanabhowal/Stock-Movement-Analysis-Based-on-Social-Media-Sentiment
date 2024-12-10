@@ -1,0 +1,210 @@
+Post Title: Cybertruck production halt at Giga Texas is due to the tunnel construction and isn't a demand issue
+URL:  https://www.reddit.com/r/teslamotors/comments/1h7b3kb/cybertruck_production_halt_at_giga_texas_is_due/
+
+User: AutoModerator
+First Comment: [r/cybertruck]( is now private. If you are unable to find it, here is a link to it.
+
+As we are not a support sub, please make sure to use the proper resources if you have questions: [Official Tesla Support]( [r/TeslaSupport]( | [r/TeslaLounge]( personal content | [Discord Live Chat]( for anything.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*
+
+User: garoo1234567
+First Comment: I guess time will tell but I never read much into 3 days off. If it was demand it would be a lot longer than that.
+
+User: carsonthecarsinogen
+First Comment: We all knew this. 
+
+The F150 Lightning has stopped production for months. THATS a demand issue. 
+
+CT demand might be slowing, but a 3 day production stop is not a sign of that.
+
+User: TheBowerbird
+First Comment: Who's going to tell the cirlclejerkers in r/technlogy and r/austin? There are more shutdowns ahead for even more plant revisions.
+
+User: Jaxon9182
+First Comment: Interesting, I hadn't heard about this tunnel under highway 130, kinda neat
+
+User: dacreativeguy
+First Comment: In other news “Boring company tunnel progress delayed by Tesla cybertruck issues”
+
+User: topcat5
+First Comment: Indeed.  
+
+This was completely made up BS by Business Insider and amplified by certain anti-Musk blogs calling themselves EV News.
+
+User: seekfitness
+First Comment: lol. God damn the media loves to spin any Tesla news into something negative
+
+User: OpenJelly1437
+First Comment: all the tesla haters are on life support now
+
+User: GoldAd1782
+First Comment: But this isn't doom and gloom.  This can't be true.
+
+User: rebootyourbrainstem
+First Comment: Come on, this is Tesla we're talking about. If there wasn't another factor there is no way they would have let that stop them.
+
+User: MattKozFF
+First Comment: They are available for almost immediate pickup though
+
+User: Rhinous
+First Comment: But the mainstream media NEVER lies!! 😱
+
+User: Tellittomy6pac
+First Comment: Don’t worry I’m sure the media will not share this, they’ll stick with the demand issue and make some bs up
+
+User: yhsong1116
+First Comment: by the time this tunnel is done, FSD V14 will do laps around the whole GFTX
+
+User: stinkybumbum
+First Comment: Yeah ok good one 👍🏻
+
+User: BetelgeuseWillBlow
+First Comment: I kinda doubt that. I was around 1 million in line to get mine with an estimated wait time of 2027.  I ultimately cancelled my order.  I logged in last night to check delivery if I ordered and it was basically immediate this month.   So basically a s***t ton of people also cancelled their orders too.  IMO Demand has fallen off the cliff
+
+==================================================
+
+Post Title: Tesla’s NACS Set to Become Official US Federal EV Charging Standard | This decision aims to unify and streamline the nation’s EV charging infrastructure, promising greater compatibility, efficiency, and accessibility for EV users.
+URL:  https://www.reddit.com/r/teslamotors/comments/1h7cske/teslas_nacs_set_to_become_official_us_federal_ev/
+
+User: AutoModerator
+First Comment: [r/cybertruck]( is now private. If you are unable to find it, here is a link to it.
+
+As we are not a support sub, please make sure to use the proper resources if you have questions: [Official Tesla Support]( [r/TeslaSupport]( | [r/TeslaLounge]( personal content | [Discord Live Chat]( for anything.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*
+
+User: kVIN_S
+First Comment: Love him or hate him. Politics or no politics. The tesla charging connector (now considered as "NACS") is great and simple. It's USB-C all over again really, except this time we won't let generations go by before establishing a standard that everyone will benefit from. It's one thing to have low phone battery and look in your friend's pile of cables between lightning and the dozen USB variants, it's another thing to be stranded anywhere coast-to-coast and knowing any charging station you can get to will just work. Can you imagine if over the past decades of ICE there would have been 4-5 types of gas that your car simply CANNOT use?
+
+User: Clomer
+First Comment: Is this going to result in the depreciation of J1772 for level 2 charging?
+
+User: chrisdh79
+First Comment: From the article: Kristin White, Acting Federal Highway Administrator, confirmed the significance of this shift at a recent Alliance for Automotive Innovation conference. She announced that federal agencies would soon issue updated guidance to incorporate NACS into federally funded EV charging projects.
+
+“In the coming weeks, you will be seeing an update from the federal agencies on what we call the J3400 standard. That will be the standard moving forward, and we’re really happy to report that out,” White stated. (via [Politico](
+
+According to White, this transition to NACS will occur within the framework of existing regulations, avoiding the need for new rulemaking. Instead, the forthcoming update will provide clarification on using NACS within the National Electric Vehicle Infrastructure (NEVI) program, which currently mandates CCS ports in federally funded chargers. This balances the integration of NACS with the continued use of CCS technology, ensuring a gradual and inclusive transition.
+
+The agency will hold a webinar, and release a list of frequently asked questions (FAQs) about the changes on December 17, 2024.
+
+User: mgd09292007
+First Comment: I recently moved to a location where the nearest fast charger is a Ford dealer with DC fast charging that uses EV Connect.  Going from Tesla superchargers to using the CCS2 adapter, I can't believe that giant heavy clunky design was ever brought to life.  I can't believe Tesla designed an elegant solution so many years ago and competitors have such garbage designs for charging connectors.
+
+User: aloha_snackbar22
+First Comment: Does it specify or mandate the location of the charge port?
+
+User: Admirable-Cobbler501
+First Comment: There are different charge ports in the US? Oh my….. one thing the EU handled well with the CCS standard
+
+User: Kr1sys
+First Comment: Well they better get after charging stations and pretty fuckin quick. Holiday travel is a nightmare
+
+User: ehoeve
+First Comment: Now Canada has to follow and all non-tesla chargers should replace to NACS connector
+
+User: tsurutatdk
+First Comment: Some will like it and some will not, but it's still a good way to improve in many ways. I also found out about Natix's new product that lets Tesla car owners monetize their vehicles. This way, they can earn from driving and access other features.
+
+==================================================
+
+Post Title: New Tesla App for Apple Watch
+URL:  https://www.reddit.com/r/teslamotors/comments/1h7kx90/new_tesla_app_for_apple_watch/
+
+User: IamStinkyChili
+First Comment: Still not able to get it on my watch. Luckay!
+
+User: lint2015
+First Comment: I'm guessing you need the holiday update to be able to pair a watch as a Bluetooth key as I haven't been able to figure out how to do it yet.
+
+User: gdubb22
+First Comment: Is there any way to rearrange the control icons on the watch? I would prefer to have the trunk on the main screen and not the frunk.
+
+User: kingmathers313
+First Comment: It looks neat but I wish you could assign the buttons manually (eg I use trunk way more than frunk) and would really like to option to open the  garage (via Homelink or myQ) from the watch.
+
+User: I_AM_ALWAYS_ANGRY
+First Comment: I still haven’t gotten the update on my M3 or CT.
+
+It says that vehicle needs update before doing anything. :(
+
+User: Nhonickman
+First Comment: I am on 11.2 and still need vehicle update to use it to unlock the car. 
+I can wait for the holiday update, hoping this will do the trick
+
+User: Tarpania
+First Comment: You can also add tesla energy complications to faces like power usage, powerwall status etc.  no vehicle complications yet though.
+
+User: M3msm
+First Comment: Are we just going to keep posting this now? There are so many of these shit posts on the watch app. Just comment there...
+
+User: lazyoats
+First Comment: Is there a way to the app to the main watch face instead of going to all apps?
+
+User: Lopsided_Jury_4733
+First Comment: Is this the official app of Tesla?
+
+User: knapsackMax
+First Comment: Does tesla have any plans to release the app for android?
+
+User: SabrToothSqrl
+First Comment: That was what I named my 2013 S 85!
+
+User: TopJicama2873
+First Comment: Now they need to add the time and a Tesla Face to the Gallery.
+
+User: lancehall08
+First Comment: Nice blue! I call mines azula. She’s blue (azure), a lighting bender, a baddie, and crazy.
+
+User: Mundane-Swimming-538
+First Comment: If I have a garmin will they make an update for all smart watches ?
+
+User: -Ricky-Stanicky-
+First Comment: Why don't we have a Tesla watch?
+
+User: No-Nothing-1885
+First Comment: Superior Garmin watches when?
+
+User: aloha_snackbar22
+First Comment: Which Mystique?
+
+Romjin-Stamos or Jlaw?
+
+==================================================
+
+Post Title: Tesla Engineer talks about the Cybercab to a crowd where it's on display
+URL:  https://www.reddit.com/r/teslamotors/comments/1h76v3c/tesla_engineer_talks_about_the_cybercab_to_a/
+
+User: AutoModerator
+First Comment: [r/cybertruck]( is now private. If you are unable to find it, here is a link to it.
+
+As we are not a support sub, please make sure to use the proper resources if you have questions: [Official Tesla Support]( [r/TeslaSupport]( | [r/TeslaLounge]( personal content | [Discord Live Chat]( for anything.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*
+
+User: badcatdog42
+First Comment: Nice to hear an engineer  talking about it
+
+User: handybh89
+First Comment: Who will buy these?  I'm being serious.  They aren't for regular people because they don't have steering wheels or pedals.  Is Uber/Lyft going to buy them?  Is Tesla going to use them themselves?  Are people going to buy them and start their own taxi businesses?
+
+User: Vadim_Dubovitsky
+First Comment: Do you know what type of material is used for body panels? Is it steal, aluminium, or plastic?
+
+User: chronocapybara
+First Comment: Mark my words, these things will circle the streets endlessly because they never need to park and traffic will be the worst you have ever seen it in history.
+
+User: bartturner
+First Comment: I am most curious on the timeline.   Are they going to wait until the car is done to start the service?
+
+User: Delladv
+First Comment: I am wondering if the cybercab is based on the future model 2? a commonality between the two makes a lot of sense and several items like the steel roof  seems appropriate for a model 2!
+
+Also the seats looks less "premium" compared to the one on model 3
+
+==================================================
+
